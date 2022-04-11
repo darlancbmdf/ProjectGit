@@ -1,1 +1,3 @@
 Arquivo para ser ignorado.txt
+*.exe
+.vscode
